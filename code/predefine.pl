@@ -1,0 +1,1 @@
+@SubLoc=("cytoplasmic","membrane","mitochondrial","nuclear");
